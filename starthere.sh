@@ -3,7 +3,7 @@
 # Some worldbuilding
 # First we will need the environment variables read in from Github secrets
 # The starting ones are API keys for Azure
-# We will start with Global Admin in a Greenfield tenant, then build the roles as a Step 0. 
+# We will start with Global Admin in a greenfield tenant, then build the roles as a Step 0. 
 # From there we will use those roles, so once Step 0 is done, you will have another manual step to put the new roles secrets into Github. 
 
 # Step 0
