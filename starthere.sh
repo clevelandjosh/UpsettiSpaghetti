@@ -10,5 +10,8 @@
 # For your Azure Environment you will need a bunch of roles.
 # We are assuming you are Global Admin for this Tenant.
 # Lets create the roles. 
-# NetworkBuilder 
+
+# Subscription_Builder - 
+# Role_Builder - 
+# Network_Builder - Will
 # VM_Builder - 
